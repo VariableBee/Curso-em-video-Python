@@ -1,5 +1,5 @@
-# Meu aprendizado de Python.
-## Olá, Mundo!
+# Olá, Mundo!
+## Meu aprendizado de Python
 #### Este é um repositório que criei para armazenar minhas anotações, desafios e estudos da linguagem Python, que estou aprendendo através do Curso em Vídeo do Professor Guanabara.
 
 ## Links úteis:
